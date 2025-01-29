@@ -1,0 +1,2 @@
+# Block-Craft-
+A Minecraft launcher BETA VERSION. NOT ASSOCIATED WITH MOJANG AB AND MS
