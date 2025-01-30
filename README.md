@@ -1,5 +1,6 @@
 # Block-Craft-
-A Minecraft launcher made by Chat GPT help.
+Launcher failed ⭕
+We are not working now on this launcher.
 ![Uploading BlockCraft.jpg…]()
 
 
